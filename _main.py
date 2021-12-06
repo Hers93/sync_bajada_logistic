@@ -116,6 +116,7 @@ if __name__ == "__main__":
         os.mkdir('logs')
     while True:
         cnn = conection('10.80.10.10', 'ENCUMEX_SAS','php_FTS17', 'qwpNcaK_y6!Bjc')
+        print(cnn)
         visits = cnn.getData('vis."idVisitante",vis."Email",vis."Nombre",vis."ApellidoPaterno",vis."ApellidoMaterno",vis."DE_Razon_Social",vis."DE_id_Cargo",vis."DE_Cargo",vis."DE_id_Area",vis."DE_Area",vis."DE_WebPage",vis."DE_id_SectorLS",vis."DE_SectorLS",vis."DE_id_GiroLS",vis."DE_GiroLS",vis."DE_id_Pais",vis."DE_Pais",vis."DE_id_Estado",vis."DE_Estado",vis."DE_id_Colonia",vis."DE_Colonia",vis."DE_CP",vis."DE_id_Ciudad",vis."DE_Ciudad",vis."DE_Direccion",vis."DE_AreaCiudad",vis."DE_Telefono",vis."Movil",vis."Tipo_Registro", 22 as "RS_UltimaEdicionPreregistrado"','"AE_LOGISTIC"."Visitante" vis INNER JOIN "AE_LOGISTIC"."VisitanteEdicion" vise ON vis."idVisitante" = vise."idVisitante"', 'vis."SyncPython" = 0 and vise."idEdicion" = 22 limit 50')
 
         if not visits:
