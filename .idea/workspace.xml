@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7da55c6b-f7f8-48d4-a774-ef603f6f4041" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CompraCompleta</find>
+      <find>NONE</find>
+      <find>edad</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1Sed9kiQB4gM2GoQmP0zafluAL5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="_main" type="PythonConfigurationType" factoryName="Python">
+      <module name="SYNC_bajada_SOUNDCHEK" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7da55c6b-f7f8-48d4-a774-ef603f6f4041" name="Default Changelist" comment="" />
+      <created>1556115590168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556115590168</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1214" y="-909" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636662791307">
+      <screen x="480" y="-1080" width="2560" height="1032" />
+    </state>
+    <state x="1214" y="-909" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816/1920.0.1920.1032/480.-1080.2560.1032@480.-1080.2560.1032" timestamp="1636662791307" />
+    <state x="636" y="214" key="FileChooserDialogImpl" timestamp="1637012022198">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="1540" y="-809" key="FileChooserDialogImpl/0.0.1536.816/1920.0.1920.1032/480.-1080.2560.1032@480.-1080.2560.1032" timestamp="1636662789110" />
+    <state x="636" y="214" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1637012022198" />
+    <state width="1515" height="207" key="GridCell.Tab.0.bottom" timestamp="1637249002997">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="2539" height="279" key="GridCell.Tab.0.bottom/0.0.1536.816/1920.0.1920.1032/480.-1080.2560.1032@480.-1080.2560.1032" timestamp="1636733798573" />
+    <state width="1515" height="207" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1637249002997" />
+    <state width="1515" height="207" key="GridCell.Tab.0.center" timestamp="1637249002997">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="2539" height="279" key="GridCell.Tab.0.center/0.0.1536.816/1920.0.1920.1032/480.-1080.2560.1032@480.-1080.2560.1032" timestamp="1636733798573" />
+    <state width="1515" height="207" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1637249002997" />
+    <state width="1515" height="207" key="GridCell.Tab.0.left" timestamp="1637249002997">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="2539" height="279" key="GridCell.Tab.0.left/0.0.1536.816/1920.0.1920.1032/480.-1080.2560.1032@480.-1080.2560.1032" timestamp="1636733798571" />
+    <state width="1515" height="207" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1637249002997" />
+    <state width="1515" height="207" key="GridCell.Tab.0.right" timestamp="1637249002997">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="2539" height="279" key="GridCell.Tab.0.right/0.0.1536.816/1920.0.1920.1032/480.-1080.2560.1032@480.-1080.2560.1032" timestamp="1636733798573" />
+    <state width="1515" height="207" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1637249002997" />
+    <state width="2539" height="344" key="GridCell.Tab.1.bottom" timestamp="1636664102466">
+      <screen x="480" y="-1080" width="2560" height="1032" />
+    </state>
+    <state width="2539" height="344" key="GridCell.Tab.1.bottom/0.0.1536.816/1920.0.1920.1032/480.-1080.2560.1032@480.-1080.2560.1032" timestamp="1636664102466" />
+    <state width="2539" height="344" key="GridCell.Tab.1.center" timestamp="1636664102466">
+      <screen x="480" y="-1080" width="2560" height="1032" />
+    </state>
+    <state width="2539" height="344" key="GridCell.Tab.1.center/0.0.1536.816/1920.0.1920.1032/480.-1080.2560.1032@480.-1080.2560.1032" timestamp="1636664102466" />
+    <state width="2539" height="344" key="GridCell.Tab.1.left" timestamp="1636664102465">
+      <screen x="480" y="-1080" width="2560" height="1032" />
+    </state>
+    <state width="2539" height="344" key="GridCell.Tab.1.left/0.0.1536.816/1920.0.1920.1032/480.-1080.2560.1032@480.-1080.2560.1032" timestamp="1636664102465" />
+    <state width="2539" height="344" key="GridCell.Tab.1.right" timestamp="1636664102466">
+      <screen x="480" y="-1080" width="2560" height="1032" />
+    </state>
+    <state width="2539" height="344" key="GridCell.Tab.1.right/0.0.1536.816/1920.0.1920.1032/480.-1080.2560.1032@480.-1080.2560.1032" timestamp="1636664102466" />
+    <state x="1261" y="-922" key="SettingsEditor" timestamp="1636662688533">
+      <screen x="480" y="-1080" width="2560" height="1032" />
+    </state>
+    <state x="1261" y="-922" key="SettingsEditor/0.0.1536.816/1920.0.1920.1032/480.-1080.2560.1032@480.-1080.2560.1032" timestamp="1636662688533" />
+    <state width="1288" height="524" key="XDebugger.FullValuePopup" timestamp="1636662995217">
+      <screen x="480" y="-1080" width="2560" height="1032" />
+    </state>
+    <state width="1288" height="524" key="XDebugger.FullValuePopup/0.0.1536.816/1920.0.1920.1032/480.-1080.2560.1032@480.-1080.2560.1032" timestamp="1636662995217" />
+    <state x="465" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1637011999272">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="465" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1637011999271" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_main.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_main.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_main.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_main.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_main.py</url>
+          <line>153</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_main.py</url>
+          <line>163</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

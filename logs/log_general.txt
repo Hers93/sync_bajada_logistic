@@ -1,0 +1,18 @@
+Ocurrio un error  'UndefinedColumn' object is not iterable
+ 
+Ocurrio un error  connection already closed
+ 
+Ocurrio un error  'InterfaceError' object is not iterable
+ 
+Ocurrio un error  'InterfaceError' object is not iterable
+ 
+Ocurrio un error  'InterfaceError' object is not iterable
+ 
+Ocurrio un error  'InterfaceError' object is not iterable
+ 
+Ocurrio un error  'InterfaceError' object is not iterable
+ 
+Ocurrio un error  'InterfaceError' object is not iterable
+ 
+Ocurrio un error  'InterfaceError' object is not iterable
+ 
